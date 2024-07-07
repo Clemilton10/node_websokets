@@ -25,7 +25,7 @@ npm install -g nodemon --save-dev
 ```
 
 -   Crie uma pasta
--   Entre nela e crie um arquivo `package.json`
+-   Entre nela e crie um arquivo `package.json` ou digite `npm init`
 
 ```json
 {
@@ -46,7 +46,7 @@ npm install -g nodemon --save-dev
 ```
 
 ```sh
-yarn install
+yarn
 ```
 
 ### ws.js
